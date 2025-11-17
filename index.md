@@ -51,11 +51,8 @@
 
 ---
 
-## Where’s Schueller?
+## Where’s Schueller? 
 
-This section explores Professor Schueller’s movement patterns using geolocation data collected over time.  
-The interactive visualization below shows daily movement distances, allowing you to compare weekdays and weekends.  
-You can zoom, hover, and interact with the plot directly on this page. 
 
 <iframe
   src="weekday_weekend_daily_km.html"
